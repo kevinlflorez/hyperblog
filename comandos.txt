@@ -1,0 +1,9 @@
+ls		,lista archivos
+pwd		,muestra la ruta
+cd		,entrar o salir de carpetas
+ls -al		,muestra archivos en lista
+clear		,limpiar consola
+mkdir		,crea carpeta
+touch		,crea archivo
+cat		,muestra contenido de archivo
+history		,muestra el historial de comandos
